@@ -1,0 +1,1 @@
+<embed src="https://blog.nextechdevelopers.com/" style="width:100%; height: 500px;">
